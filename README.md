@@ -1,4 +1,4 @@
-# Tesla-CLone- its totally responsive and I am willig to work on it 
+# Tesla-CLone- its totally responsive and I am willing to work on it 
 
 I have attached my presentation above REACT NATIVE teslaclone.pptx 
 
